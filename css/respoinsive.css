@@ -1,0 +1,234 @@
+
+@media (max-width:767px){
+    .fixed-top{
+        top: 0px;
+    }
+    .searsh-box{
+        top: -3%;
+        left: 53%;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgba(0,0,0,.5);
+        border-color: rgba(0,0,0,.1);
+        margin-top: 6px;
+    }
+    .header ul li a{
+    display:block;
+    position: relative;
+    width: 110px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: none;
+    }
+    .info{
+        width: 98%;
+        margin: 29px 0px 28px 12px;
+    }
+    .rout{
+        width: 105%;
+        margin: 15px -15px 0px
+    }
+    .temr{
+        width: 97%;
+        margin-left: 4px;
+    }
+    .ba-2{
+        height: 100%;
+    }
+    .ba-3{
+        margin-top: 20px;
+    }
+    .ba-4 {
+        height: 66vh;
+        margin-top: -161%;
+    }
+    .be .ba-1 {
+        height: 48vh;
+        margin-top: -105px;
+        margin-bottom: 123px;
+    }
+    .hed-2 p {
+        margin-left: 123px;
+        line-height: 1.5rem;
+    }
+    .card-pro .card{
+        margin-bottom: 20px;
+    }
+    .container2 .card1 {
+        position: relative;
+        left: 75px;
+    }
+    .clients{
+        margin-left: -7em;
+    }
+    .clients2 {
+        float: right;
+        margin-top: 0;
+        margin-left: -7em;
+    }
+    .par{
+        width: 100%;
+    }
+    .par2 {
+        width: 100%;
+        margin-left: -36px;
+    }
+    .card span:first-child {
+        left: 160px;
+    }
+    #contact .head{
+        margin-top:342px;
+    }
+    .hed-2 p {
+        margin-left: 4px;
+        width: 100%;
+    }
+    .he-2{
+        margin-left: 0px;
+        width: 100%;
+    }
+    .input {
+        margin-top: 84px;
+        margin-left: 4%;
+    }
+    .head button{
+        margin-bottom: 34px;
+        margin-left: 16px;
+    }
+}
+@media(min-width:768px) and (max-width:991px){
+    .navbar-brand{
+        margin-right: 83%;
+    }
+    .navbar-toggler{
+        margin-left: 93%;
+        margin-top: -5%;
+    }
+    .searsh-box{
+        top: 0%;
+        left: 53%;
+    }
+    .info{
+        width: 50%;
+        margin-left: 0px;
+    }
+    .rout{
+        margin-top: -2px;
+    }
+    .ba{
+        padding-bottom: 18px;
+    }
+    .ba-6{
+        margin-bottom: 20px;
+    }
+    .be {
+        margin-top: -141%;
+    }
+    .card-3{
+        top: 12rem;
+    }
+    .card-5{
+        margin-top: -205px;
+    }
+    .card-6{
+    left: 22.5rem;
+    bottom: 12rem;
+    }
+    #team .hed{
+        margin-left: 217px;
+    width: 100%;
+    }
+    #portfolio {
+        margin-top: -29%;
+    }
+    .card span:first-child {
+        left: 106px;
+    }
+    #blog .hed {
+        margin-bottom: 111px;
+        margin-left: 177px;
+        width: 130%;
+    }
+    #process .hed {
+        margin-bottom: 0px;
+        margin-left: 221px;
+        width: 100%;
+    }
+    #process .hed-2 p {
+        font-weight: 900;
+        letter-spacing: 0px;
+        width: 100%;
+        margin-top: 5px;
+        margin-left: 231px;
+    }
+    .imgs-2 {
+        background: url(../images/blog-post-preview03.jpg) center;
+        background-attachment: fixed;
+        height: 200px !important;
+        width: 450px !important
+    }
+    .ba-4{
+    position: relative;
+    height: 116%;
+    left: 109%;
+    top: -208%;
+    }
+    .card-pro .card{
+        margin-bottom: 20px;
+    }
+    
+    .clients{
+        margin-left: 160px;
+    }
+    .par {
+        width: 181%;
+    }
+    .clients2 {
+        /* float: right; */
+        margin-top: 0;
+        margin-right: 0;
+        margin-left: 157px;
+    }
+    .par2 {
+        width: 177%;
+    }
+    #contact {
+        margin-top: 345px;
+    }
+    .he-2 {
+        margin-bottom: 31px;
+        margin-left: 14px;
+        width: 100%;
+    }
+    .input {
+        margin-top: 118px;
+        margin-left: 25%;
+    }
+}
+@media(min-width:992px) and (max-width:1199px){
+    .searsh-box{
+        margin-left: -10%;
+    }
+    .navbar-brand{
+        margin-right: 64%;
+    }
+    .info{
+        width: 47%;
+        margin-left: 0px;
+    }
+    .ba-7{
+        position: absolute;
+     }
+    .be {
+        margin-top: -70%;
+    }
+    .he-2{
+    /* margin-bottom: 111px; */
+    margin-left: 127px;
+    width: 147%;
+    }
+}
+@media(min-width:1200px){
+    
+}
